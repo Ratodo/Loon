@@ -1,0 +1,6 @@
+DOMAIN,rsshub.app,PROXY
+DOMAIN-KEYWORD,ap.spotify.com,DIRECT
+DOMAIN-KEYWORD,jegotrip,DIRECT
+USER-AGENT,aliyun-log-sdk-ios*,DIRECT
+USER-AGENT,smoba*,DIRECT
+GEOIP,CN,DIRECT
